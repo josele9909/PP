@@ -15,7 +15,7 @@ const ContactSection = () => {
           className="text-center mb-16"
         >
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-            Get In Touch / <span className="gradient-text">お問い合わせ</span>
+            Get In Touch / <span className="gradient-text"></span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
             Ready to discuss opportunities in Japan or collaborate on exciting projects? 
