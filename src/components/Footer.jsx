@@ -37,7 +37,6 @@ const Footer = () => {
             <p className="text-gray-300">© {new Date().getFullYear()} Genji Tanaka (田中源氏). Built with passion for Japan.</p>
             <p className="text-gray-400 mt-1">日本への情熱を込めて作られました。</p>
             <p>this is dev1</p>
-            <p>this is dev2</p>
         </div>
     </footer>)
 }
