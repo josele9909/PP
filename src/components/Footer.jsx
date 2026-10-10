@@ -34,7 +34,7 @@ const Footer = () => {
             </div>
         </div>
         <div className="max-w-6xl mx-auto mt-12 pt-8 border-t border-gray-800 text-center text-gray-500 text-sm">
-            <p className="text-gray-300">© {new Date().getFullYear()} Web Developer Portfolio. Built with passion for Japan.</p>
+            <p className="text-gray-300">© {new Date().getFullYear()} Genji Tanaka (田中源氏). Built with passion for Japan.</p>
             <p className="text-gray-400 mt-1">日本への情熱を込めて作られました。</p>
         </div>
     </footer>)

@@ -43,14 +43,14 @@ function App() {
   return (
     <>
       <Helmet>
-        <title>Web Developer Portfolio - Seeking Opportunities in Japan | 日本で働きたい開発者</title>
-        <meta 
-          name="description" 
-          content="Passionate full-stack web developer seeking opportunities in Japan. Experienced with React, Angular, Spring Boot, and modern web technologies. 日本で働くことを夢見ているフルスタック開発者のポートフォリオ。" 
+        <title>Genji Tanaka (田中源氏) - C# / .NET Developer Portfolio | 日本で働きたい開発者</title>
+        <meta
+          name="description"
+          content="Portfolio of Genji Tanaka, a passionate full-stack developer seeking opportunities in Japan. Experienced with C# and the .NET Framework. 田中源氏 - C#と.NET Frameworkを主軸とするフルスタック開発者のポートフォリオ。"
         />
-        <meta name="keywords" content="web developer, Japan, React, Angular, Spring Boot, portfolio, 開発者, 日本, ポートフォリオ" />
-        <meta property="og:title" content="Web Developer Portfolio - Seeking Opportunities in Japan" />
-        <meta property="og:description" content="Passionate full-stack developer with expertise in React, Angular, and Spring Boot, seeking opportunities in Japan's tech industry." />
+        <meta name="keywords" content="Genji Tanaka, 田中源氏, C#, .NET Framework, .NET developer, Japan, portfolio, 開発者, 日本, ポートフォリオ" />
+        <meta property="og:title" content="Genji Tanaka (田中源氏) - C# / .NET Developer Portfolio" />
+        <meta property="og:description" content="Passionate full-stack developer with expertise in C# and the .NET Framework, seeking opportunities in Japan's tech industry." />
         <meta property="og:type" content="website" />
         <link rel="canonical" href="https://leopaul29.github.io/" />
       </Helmet>

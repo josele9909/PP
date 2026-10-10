@@ -9,13 +9,8 @@ import {myLinkedIn} from "@/content/contactLinks.jsx";
 
 
 const skills = [
-  { name: 'React' },
-  { name: 'Angular', certifications: ['Angular Certified Developer'] },
-  { name: 'Spring Boot' },
-  { name: 'Java' },
-  { name: 'Azure Cloud', certifications: ['AZ-900'] },
-  { name: 'Pega System', certifications: ['CSA', 'CSSA'] },
-  { name: 'JLPT N2', certifications: ['Japanese Language Proficiency Test - N2'] }
+  { name: 'C#' },
+  { name: '.NET Framework' }
 ];
 
 const HeroSection = () => {
@@ -38,7 +33,7 @@ const HeroSection = () => {
                   transition={{ delay: 0.2 }}
                   className="text-blue-600 font-medium text-lg"
               >
-                Hello, I'm Leo / はじめまして、レオと申します。
+                Hello, I'm Genji Tanaka / はじめまして、田中源氏と申します。
               </motion.p>
 
               <motion.h1
@@ -47,7 +42,7 @@ const HeroSection = () => {
                   transition={{ delay: 0.3 }}
                   className="text-4xl md:text-5xl font-bold text-gray-900 leading-tight"
               >
-                Web Developer
+                C# / .NET Developer
                 <span className="block gradient-text">日本での就職を目指す</span>
               </motion.h1>
 
@@ -58,7 +53,7 @@ const HeroSection = () => {
                   className="text-xl text-gray-600 leading-relaxed"
               >
                 Passionate full-stack developer seeking opportunities in Japan.
-                Building modern web applications with React, Angular, and Spring Boot.
+                Building robust applications with C# and the .NET Framework.
               </motion.p>
 
               <motion.p
@@ -67,7 +62,7 @@ const HeroSection = () => {
                   transition={{ delay: 0.5 }}
                   className="text-lg text-gray-500"
               >
-                日本のIT業界での活躍を志す、フルスタック開発者です。
+                C#と.NET Frameworkを主軸に、日本のIT業界での活躍を志すフルスタック開発者です。
               </motion.p>
             </div>
 

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<svg width="603" height="197" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+<svg width="805" height="197" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
  <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
  <defs>
   <filter id="svg_12_blur">
@@ -9,8 +9,8 @@
  <g class="layer">
   <title>Layer 1</title>
   <path d="m5,191.92l0,-186.92l334,0l0,186.92l-334,0z" fill="#ff0000" filter="url(#svg_12_blur)" id="svg_12" stroke="#aad4ff" stroke-width="10"/>
-  <text fill="#ffffff" font-family="Serif" font-size="151" id="svg_11" stroke="#ff0000" stroke-width="0" text-anchor="middle" x="248.78" xml:space="preserve" y="151.3">雄</text>
-  <text fill="#ffffff" font-family="Serif" font-size="150.1" id="svg_10" stroke="#ff0000" stroke-width="0" text-anchor="middle" x="93.33" xml:space="preserve" y="150.23">玲</text>
-  <text fill="#ff0000" font-family="Monospace" font-size="147.47" font-style="normal" font-weight="normal" id="svg_9" stroke="#ff0000" stroke-width="0" text-anchor="middle" x="481.7" xml:space="preserve" y="146">LEO</text>
+  <text fill="#ffffff" font-family="Serif" font-size="151" id="svg_11" stroke="#ff0000" stroke-width="0" text-anchor="middle" x="248.78" xml:space="preserve" y="151.3">氏</text>
+  <text fill="#ffffff" font-family="Serif" font-size="150.1" id="svg_10" stroke="#ff0000" stroke-width="0" text-anchor="middle" x="93.33" xml:space="preserve" y="150.23">源</text>
+  <text fill="#ff0000" font-family="Monospace" font-size="147.47" font-style="normal" font-weight="normal" id="svg_9" stroke="#ff0000" stroke-width="0" text-anchor="middle" x="577" xml:space="preserve" y="146">GENJI</text>
  </g>
 </svg>

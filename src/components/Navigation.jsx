@@ -58,7 +58,7 @@ const Navigation = ({ activeSection, setActiveSection }) => {
             className="font-bold text-xl gradient-text cursor-pointer"
             onClick={() => scrollToSection('hero')}
           >
-            <img src={titleImg} alt="Portfolio Leo" className="w-full h-8"/>
+            <img src={titleImg} alt="Portfolio Genji Tanaka" className="w-full h-8"/>
           </motion.div>
 
           {/* Desktop Navigation */}
