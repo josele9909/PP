@@ -200,6 +200,7 @@ export default defineConfig({
 	],
 	base: '/',
 	server: {
+		host: '127.0.0.1',
 		cors: true,
 		headers: {
 			'Cross-Origin-Embedder-Policy': 'credentialless',
